@@ -8,7 +8,7 @@ https://sds1-bodegami.netlify.app/
 
 O Big Game Survey é uma aplicação web e mobile desenvolvida durante a 1º edição da **Semana DevSuperior** (#sds1), evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
 
-O intuito deste projeto é fazer uma pesquisa sobre as prefêrencias de jogos, coletar esses dados na aplicação mobile, onde serão listados numa aplicação web e depois apresentar estes dados num dashboard com gráficos. 
+O objetivo deste projeto é fazer uma pesquisa sobre as preferências de jogos, coletar esses dados na aplicação mobile, onde serão listados numa aplicação web e depois apresentar estes dados num dashboard com gráficos. 
 
 
 ## Layout Mobile
